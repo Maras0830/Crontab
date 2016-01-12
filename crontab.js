@@ -1,8 +1,8 @@
 var http = require('http');
 
 var options = {
-  host: 'illuminatebak2.azurewebsites.net',
-  path: '/json/sendexportmail'
+  host: 'domain.com',
+  path: '/to/url'
 };
 
 callback = function(response) {
